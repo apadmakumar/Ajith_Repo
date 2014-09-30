@@ -1,7 +1,7 @@
 /*
 * User script to set Total Amount on Salesorder line items.
-* @ AUTHOR : Abith Nitin
-* @Release Date 15th Sep 2014
+* @ AUTHOR : Unitha Rangam
+* @Release Date 6th Oct 2014
 * @Release Number 
 * @version 1.0
  */
