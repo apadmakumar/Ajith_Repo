@@ -1,4 +1,4 @@
 function A1()
 {
-nlapiLogExecution('DEBUG','BN',1);
+nlapiLogExecution('DEBUG','B',1);
 }
