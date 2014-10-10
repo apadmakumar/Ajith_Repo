@@ -6,9 +6,8 @@
 *
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 function onchange(type, name, linenum) {
-	var sdate = nlapiGetFieldValue('custpage_sdate');	
-	var edate = nlapiGetFieldValue('custpage_edate');	
-	var fromorderid = nlapiGetFieldValue('custpage_fromorderid');
+	var sdate = nlapiGetFieldValue('trandate');	
+	var edate = nlapiGetFieldValue('enddate');	
 	var toorderid= nlapiGetFieldValue('custpage_toorderid');
 	var customer= nlapiGetFieldValue('custpage_customer');	
 	var committed = nlapiGetFieldValue('custpage_committed');	
